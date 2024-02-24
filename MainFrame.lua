@@ -1,1 +1,1 @@
-print("HACKING DA WORLD")
+print("HEHE, online")
